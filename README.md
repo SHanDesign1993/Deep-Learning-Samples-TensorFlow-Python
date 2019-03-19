@@ -6,7 +6,7 @@ using Google Colab as python env to build tensorflow sample.
 
 # Getting start with AI
 
-Artificial Intelligence: A field of computer science that aims to make computers achieve human-style intelligence. There are many approaches to reaching this goal, including machine learning and deep learning.  
+<b>Artificial Intelligence:</b> A field of computer science that aims to make computers achieve human-style intelligence. There are many approaches to reaching this goal, including machine learning and deep learning.  
 
 <b>Machine Learning:</b> A set of related techniques in which computers are trained to perform a particular task rather than by explicitly programming them.  
 
@@ -15,8 +15,8 @@ Artificial Intelligence: A field of computer science that aims to make computers
 <b>Deep Learning:</b> A subfield of machine learning that uses multi-layered neural networks. Often, “machine learning” and “deep learning” are used interchangeably.  
 
 # Terms
-</br>Feature: The input(s) to our model
-</br>Examples: An input/output pair used for training
+### · Feature: The input(s) to our model
+### · Examples: An input/output pair used for training
 </br>Labels: The output of the model
 </br>Layer: A collection of nodes connected together within a neural network.
 </br>Model: The representation of your neural network
