@@ -1,4 +1,4 @@
-# Python-Tensorflow-Example
+# Deep-Learning-Samples-TensorFlow-Python
 using Google Colab as python env to build tensorflow sample.  
 
 # Requirements
